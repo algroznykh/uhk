@@ -1,0 +1,6 @@
+# copy line from a shell terminal to clipboard via xclip, key mappings are for dvorak oh host system 
+tapKey home
+write dijs 
+tapKey end
+tapKey space
+write  | bipgr 'g
