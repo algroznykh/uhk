@@ -1,2 +1,2 @@
 # uhk
-ultimate hacking keyboard misc things
+Scripts and misc things for https://ultimatehackingkeyboard.com/
